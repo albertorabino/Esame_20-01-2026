@@ -38,6 +38,7 @@ Esame_20-01-2026/
 │
 ├── model/ (AGGIUNGERE ULTERIORI CLASSI SE NECESSARIE) 
 │   ├── __init__.py
+│   ├── artist.py
 │   └── model.py (DA MODIFICARE) 
 │
 ├── UI/
