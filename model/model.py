@@ -14,6 +14,7 @@ class Model:
     def load_artists_with_min_albums(self, min_albums):
         pass
 
+
     def build_graph(self):
         pass
 
