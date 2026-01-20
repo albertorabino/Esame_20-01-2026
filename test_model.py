@@ -1,8 +1,11 @@
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import networkx as nx
 from model.model import Model
 
 my_model = Model()
+my_model.build_graph(5)
+print(my_model.analizza_grafo(90))
+print(my_model.ricerca_cammino(3.2,6,90))
 
 # DE-COMMENTARE E ADATTARE I NOMI DELLE FUNZIONI
 # A QUELLE EFFETTIVAMENTE SCRITTE DURANTE L'ESAME
